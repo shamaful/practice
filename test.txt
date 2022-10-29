@@ -1,10 +1,7 @@
+ああああ　aaaブランチの変更
 000000
 aaaaaa
 bbbb
 ccccddddeeee
-  
 
-
-
-
-  bbbブランチでの変更
+bbbブランチでの変更
