@@ -1,11 +1,1 @@
-いいいいい　bbb　ブランチでの変更
-ええええ by bbb
-おおおお by bbb
-ああああ　aaaブランチの変更
-000000
-aaaaaa
-bbbb
-ccccddddeeeexxxxxffffdf　aaaとbbbを合体
-
-bbbブランチでの変更
-aaa bbbブランチで新規追加
+テスト by ccc
