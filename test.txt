@@ -1,10 +1,1 @@
-000000
-aaaaaa
-bbbb
-ccccddddeeee
-  
-
-
-
-
-  bbbブランチでの変更
+いいいいい　bbb　ブランチでの変更
