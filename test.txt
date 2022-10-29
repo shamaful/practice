@@ -5,7 +5,7 @@
 000000
 aaaaaa
 bbbb
-ccccddddeeeeffffdf bbbブランチで追加変更
+ccccddddeeeeffffdf bbbブランチで追加変更したよ
 
 bbbブランチでの変更
 aaa bbbブランチで新規追加
