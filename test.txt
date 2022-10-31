@@ -1,3 +1,4 @@
+aaaa　aaaブランチの変更
 いいいいい　bbb　ブランチでの変更
 ええええ by bbb
 おおおお by bbb
@@ -9,3 +10,4 @@ ccccddddeeeexxxxxffffdf　aaaとbbbを合体
 
 bbbブランチでの変更
 aaa bbbブランチで新規追加
+aaaaaa aaaブランち
